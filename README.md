@@ -2,13 +2,14 @@
 
 # HTML Tags
  - structure
- - links <a>
- - divs <div>
- - span <span>
- - meta <meta>
- - tables <table>
+ - links &lt;a&gt;
+ - divs &lt;div&gt;
+ - span &lt;span&gt;
+ - meta &lt;meta&gt;
+ - tables &lt;table&gt;
  
-# CSS 
+ 
+## CSS 
  - structure
  - positioning
  - shadow
